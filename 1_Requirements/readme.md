@@ -1,11 +1,11 @@
 ## Requirements
 
 #### System Requirements
- >Operating system : MS Windows XP or Windows Vista
- >Language : C Language
- >Processor : Pentium IV Processor
- >RAM : 512 MB
- >Hard Disk: 5GB
+ > Operating system : MS Windows XP or Windows Vista
+ > Language : C Language
+ > Processor : Pentium IV Processor
+ > RAM : 512 MB
+ > Hard Disk: 5GB
  
  #### Features
  
