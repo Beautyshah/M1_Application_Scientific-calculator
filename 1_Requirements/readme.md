@@ -47,3 +47,16 @@ commercial sale in 1970, weighed 45 ounces and had ten numerical buttons from ze
 The display was capable of showing digits up to 12 decimal places.
 oday’s scientific calculators can perform a core set of calculations and functions. Different makes and models may also include 
 extra features.
+
+## 4W and 1H
+
+#### What
+A scientific calculator is a calculator designed to calculate science, engineering, and mathematics problems. It has way more buttons than standard calculator that just do four basic arithmetic operations of addition, subtraction, multiplication, and division.
+
+#### Why
+Scientific calculator relieve the user  of the need to do mental operations and of the need to rely on paper, so far as possible.Scientific calculators are used widely in situations that require quick access to certain mathematical functions, especially those that were once looked up in mathematical tables, such as trigonometric functions or logarithms.The purpose of a calculator is to do correct calculations, and to do so efficiently.
+
+#### Where
+Scientific calculators are used by engineers, surveyors, college students, scientists, and medical professionals. it is also used in shops to do calculations and also used in many other places.
+
+#### How
