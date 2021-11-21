@@ -85,10 +85,21 @@ Scientific calculator will take input from the user such as logarithmic or trign
 
 
 
-## High level requirements
-|HLR  | Descriptions|
-|-----|-------------|
+## High Level Requirements
+|HLR  | Descriptions       |
+|-----|--------------------|
 |HLR_1|
 |HLR_2|
 |HLR_3|
 |HLR_4|
+
+
+## Low Level Requirements
+|LLR   | Descriptions      |
+|------|-------------------|
+|LLR_1 | 
+
+
+
+
+
