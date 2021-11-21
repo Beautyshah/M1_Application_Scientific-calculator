@@ -50,13 +50,45 @@ extra features.
 
 ## 4W and 1H
 
-#### What
+### What
 A scientific calculator is a calculator designed to calculate science, engineering, and mathematics problems. It has way more buttons than standard calculator that just do four basic arithmetic operations of addition, subtraction, multiplication, and division.
 
-#### Why
+### Why
 Scientific calculator relieve the user  of the need to do mental operations and of the need to rely on paper, so far as possible.Scientific calculators are used widely in situations that require quick access to certain mathematical functions, especially those that were once looked up in mathematical tables, such as trigonometric functions or logarithms.The purpose of a calculator is to do correct calculations, and to do so efficiently.
 
-#### Where
+### When
+The first scientific calculator that included all of the basic ideas was the programmable Hewlett-Packard HP-9100A, released in 1968, though the Wang LOCI-2 and the Mathatronics Mathatron had some features later identified with scientific calculator designs.
+
+### Where
 Scientific calculators are used by engineers, surveyors, college students, scientists, and medical professionals. it is also used in shops to do calculations and also used in many other places.
 
-#### How
+### How
+Scientific calculator will take input from the user such as logarithmic or trignometric and it will do its required operations internally and display its output on the screen.
+
+## SWOT Analysis
+### strengths
+- It helps to solve very tedious and most difficult calculations.
+- It is used by  engineers, surveyors, college students, scientists, and medical professionals.
+- It allows to input a problem that has an order of operations.
+- It is portable and easy to use machine.
+- It gives accurate results.
+- It gives output very quickly, in nanoseconds.
+### weaknesses
+
+
+
+### Opportunities
+
+
+
+### Threats
+
+
+
+## High level requirements
+|HLR  | Descriptions|
+|-----|-------------|
+|HLR_1|
+|HLR_2|
+|HLR_3|
+|HLR_4|
