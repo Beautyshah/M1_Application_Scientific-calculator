@@ -4,4 +4,3 @@
 
 ## Behavioral diagram
 
-h
