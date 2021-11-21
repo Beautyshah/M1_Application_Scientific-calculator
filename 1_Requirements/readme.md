@@ -28,7 +28,7 @@
 - physical constants
 
 ## State of Art
-## Feature Evolution
+### Feature Evolution
 #### Early calculators
 Humans first started using tools to count with the invention of the abacus, a tool that's so old that its exact origins have never
 been confirmed. It involves moving a set of beads or balls from one side of a row of poles to another.
@@ -45,7 +45,7 @@ Pretty soon, inventors began to produce far more compact versions of the modern 
 appeared on the scene. Since then, the basic interface of standard handheld calculators hasn’t changed much. It was released for
 commercial sale in 1970, weighed 45 ounces and had ten numerical buttons from zero to nine.
 The display was capable of showing digits up to 12 decimal places.
-oday’s scientific calculators can perform a core set of calculations and functions. Different makes and models may also include 
+Today’s scientific calculators can perform a core set of calculations and functions. Different makes and models may also include 
 extra features.
 
 ## 4W and 1H
