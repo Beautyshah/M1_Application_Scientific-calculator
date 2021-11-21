@@ -74,8 +74,9 @@ Scientific calculator will take input from the user such as logarithmic or trign
 - It gives accurate results.
 - It gives output very quickly, in nanoseconds.
 ### weaknesses
-- Dependency 
+- Dependency of people and make students lazy
 - High cost 
+- You need to take basic training to operate this device.
 ### Opportunities
 - can be implemented in any places where calculations are required 
 ### Threats
