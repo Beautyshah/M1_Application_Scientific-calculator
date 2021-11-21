@@ -15,3 +15,14 @@
 - trigonometric functions (some including hyperbolic trigonometry)
 - exponential functions and roots beyond the square root
 - quick access to constants such as pi and e 
+- hexadecimal, binary, and octal calculations, including basic Boolean mathematics
+- complex numbers
+- fractions calculations
+- statistics and probability calculations
+- programmability
+- equation solving
+- matrix calculations
+- calculus
+- letters that can be used for spelling words or including variables into an equation
+- conversion of units
+- physical constants
