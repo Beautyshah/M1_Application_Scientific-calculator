@@ -1,8 +1,3 @@
-  #  M1_Application_Scientific-calculator
-
-## Scientific Calculator
-
-A scientific calculator is a calculator designed to calculate science, engineering, and mathematics problems. It has way
-more buttons than standard calculator that just lets to do four basic arithmetic operations of addition, subtraction,
-multiplication, and division.Scientific calculator  helps to solve trigonometry problems involving sine, cosine, tangent, their
-inverses, and their hyperbolic functions.
+# MATRIX CALCULATOR
+Miniproject
+Mathematical operations are a part of our daily lives. Everyday we will be involving with various types of calculations around us. Matrices is a mathematical entity where numbers are arranged in rows and columns. A lot of applications exist with matrices in real life.The major application lies in the software industry such as development of algorithms like path finder algorithms, image processing algorithms and many more. In this project, some of the basic matrix operations are presented where a user can select the operation to be performed on the matrix. Then the matrices with their size are entered. Note that only square matrices are being considered for the project.
