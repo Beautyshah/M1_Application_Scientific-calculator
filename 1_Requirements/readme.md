@@ -1,102 +1,82 @@
 # Requirements
+## Introduction
+  * Mathematical operations are a part of our daily lives. Everyday we will be involving with various types of calculations around us. Matrices is a mathematical entity where numbers are arranged in rows and columns. A lot of applications exist with matrices in real life.The major application lies in the software industry such as development of algorithms like path finder algorithms, image processing algorithms and many more.
+  * In this project, some of the basic matrix operations are presented where a user can select the operation to be performed on the matrix. Then the matrices with their size are entered. Note that only square matrices are being considered for the project.
 
-## System Requirements
- - Operating system : MS Windows XP or Windows Vista
- - Language : C Language
- - Processor : Pentium IV Processor
- - RAM : 512 MB
- - Hard Disk: 5GB
+## Research
+
+### Objective
+This project focuses on matrix operations on square matrices. The operations performed on a pair of square matrices are, addition, subtraction and multiplication. The operations performed on a single square matrix are, transpose, determinant and inverse. 
+
+### Benefits
+
+A user who is working on a laptop or a desktop who would be working on matrix based calculations, can make use of this application as handy. A human being can find the output values of a matrix for a maximum of size 3 X 3, i.e 3 rows and 3 columns. If they try to solve the matrix for dimensions above 3 , the time consumed is large and verification that the solution is correct or not consumes extra time. Hence this tool can be used to cross check the matrix operations conducted.
+
+
+## Cost and Features
+
+ * The cost for implementing a project involving matrix calculations is minimal to none. But the extension of matrix applications to various state of the art domains like machine learning, image processing, cryptography , path finder algorithms etc will have a research and development being done. And for the required calculations related to matrices, this program comes in handy.
  
- ## Features
- 
-- scientific notation
-- floating-point arithmetic
-- logarithmic functions, using both base 10 and base e
-- trigonometric functions (some including hyperbolic trigonometry)
-- exponential functions and roots beyond the square root
-- quick access to constants such as pi and e 
-- hexadecimal, binary, and octal calculations, including basic Boolean mathematics
-- complex numbers
-- fractions calculations
-- statistics and probability calculations
-- programmability
-- equation solving
-- matrix calculations
-- calculus
-- letters that can be used for spelling words or including variables into an equation
-- conversion of units
-- physical constants
+ ### Some of The features of the project
 
-## State of Art
-### Feature Evolution
-#### Early calculators
-Humans first started using tools to count with the invention of the abacus, a tool that's so old that its exact origins have never
-been confirmed. It involves moving a set of beads or balls from one side of a row of poles to another.
-Around the mid 17th century, the first adding machine was invented. It was only capable of adding and subtracting by moving a set
-of dials.
-After that, a series of iterations on the adding machine advanced humanity toward the electronic calculators of today. This 
-included Philip Hahn’s circular, hand-cranked calculator in 1778 and the first commercially produced calculator invented by Charles 
-Xavier Thomas de Colmar in 1820.
+ * This program has dynamic memory allocation involved for allocating memory for the matrices, i.e 2 dimensional arrays. A structure is implemented for storing the input matrices. The user can select the opeation to be performed by pressing a number on the keyboard. The significance of each number, i.e the operation which it performs will be displayed on the screen during the execution of the program.
 
-#### Modern electronic calculators
-Back in 1954, IBM came up with the first all-transistor calculator. Previous calculators had all used vacuum tubes to operate, but
-this model used around 3,000 transistors instead. It was a large, bulky machine that could cost you up to $83,210.
-Pretty soon, inventors began to produce far more compact versions of the modern calculator. In 1967, the first handheld calculator 
-appeared on the scene. Since then, the basic interface of standard handheld calculators hasn’t changed much. It was released for
-commercial sale in 1970, weighed 45 ounces and had ten numerical buttons from zero to nine.
-The display was capable of showing digits up to 12 decimal places.
-Today’s scientific calculators can perform a core set of calculations and functions. Different makes and models may also include 
-extra features.
 
-## 4W and 1H
+## Defining Our System
+* The system on the whole is viewed as a blackbox which accepts input of a single number. Then the mapping of the number is done so as to perform the appropriate function. Then the user will be prompted to enter the matrix size. After that the user is prompted to enter the matrix elements. The input is stored in 2D arrays which are dynamically allocated and passed to the respective functions. Then the output is printed on the screen. This whole process is in a loop until the user presses a key which will exit the program.
 
-### What
-A scientific calculator is a calculator designed to calculate science, engineering, and mathematics problems. It has way more buttons than standard calculator that just do four basic arithmetic operations of addition, subtraction, multiplication, and division.
-
-### Why
-Scientific calculator relieve the user  of the need to do mental operations and of the need to rely on paper, so far as possible.Scientific calculators are used widely in situations that require quick access to certain mathematical functions, especially those that were once looked up in mathematical tables, such as trigonometric functions or logarithms.The purpose of a calculator is to do correct calculations, and to do so efficiently.
-
-### When
-The first scientific calculator that included all of the basic ideas was the programmable Hewlett-Packard HP-9100A, released in 1968, though the Wang LOCI-2 and the Mathatronics Mathatron had some features later identified with scientific calculator designs.
-
-### Where
-Scientific calculators are used by engineers, surveyors, college students, scientists, and medical professionals. it is also used in shops to do calculations and also used in many other places.
-
-### How
-Scientific calculator will take input from the user such as logarithmic or trignometric and it will do its required operations internally and display its output on the screen.
-
-## SWOT Analysis
-### strengths
-- It helps to solve very tedious and most difficult calculations.
-- It is used by  engineers, surveyors, college students, scientists, and medical professionals.
-- It allows to input a problem that has an order of operations.
-- It is portable and easy to use machine.
-- It gives accurate results.
-- It gives output very quickly, in nanoseconds.
-### weaknesses
-- Dependency of people and make students lazy
-- High cost 
-- You need to take basic training to operate this device.
+## SWOT ANALYSIS
+### Strength
+- To find the sum,differnces,product on a pair of matrices.
+- To find the determinant,transpose and inverse of a single matrix.
+### Weakness
+- Restricted to only square matrices.
+- Limited number of operations defined.
+- The maximum size of the matrix is restricted to the maximum value of int 
 ### Opportunities
-- can be implemented in any places where calculations are required 
+- Opportunity to solve large matrix problems faster.
+- Saves time on solving matrix problems in research applications.
 ### Threats
-- Other similar applications or device
+- Possible memory leaks.
+- Same Application
+# 4W&#39;s and 1&#39;H
 
-## High Level Requirements
-|HLR  | Descriptions       |
-|-----|--------------------|
-|HLR_1|Basic calculation   |
-|HLR_2|Memory              |
-|HLR_3|Build-in functions  |
-|HLR_4|Solar and battery powered|
+## Who:
+ * Students who want to solve matrix related problems for their academic work
+ * Datascience workers working on machine learning and deep learning applications which majorly involve matrices.
+ * Software engineers
+ * Researchers and mathematicians
 
-
-## Low Level Requirements
-|LLR   | Descriptions      |
-|------|-------------------|
-|LLR_1 | 
+## What:
+ * Calculate the sum, differemce, product of two matrices and also the determinnt, transpose and inverse of a single matrix.
 
 
+## When:
+ * Students facing a difficulty in solving a matrix related problem, can use this program to conform their outputs.
+ * Researchers can use it for getting a quick calculation output.
+ * Comes to a great use when calculating for matrices of huge order.
 
+## Where:
+ * Students, employees and researchers all over the world.
 
+## How:
+ * This program can be executed in a system which has Linux or Windows operating system. 
 
+## High Level Requirements: 
+| HLR | Description |  
+| ----- | ----- | 
+| HR01 | User shall be able to specify the size of the matrix |
+| HR02 | User shall be able to add the matrices| 
+| HR03 | User shall be able to subtract the matrices| 
+| HR04 | User shall be able to multiply the matrices | 
+| HR05 | User shall be able to find determinant, transpose and inverse of a matrix | 
+
+##  Low level Requirements:
+ 
+| LLR | Description | 
+| ------ | --------- | 
+| LR01 | User must specify the size of the matrix,,- The size specified is the dimensions of the square matrix |
+| LR02 | Addition of two matrices can be done. Both the matrices need to be of same size.,,- The size entered in the begining is same for both the matrices | 
+| LR03 | Subtraction of two matrices is implemented in the same manner as addition| 
+| LR04 | Multiplication of two matrices is done on two square matrices of a specified size| 
+| LR05 | The determinant of a single matrix of a specified size is implemented|
