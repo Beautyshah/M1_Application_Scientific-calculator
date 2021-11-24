@@ -88,7 +88,7 @@ Scientific calculator will take input from the user such as logarithmic or trign
 |HLR_1|Basic calculation   |
 |HLR_2|Memory              |
 |HLR_3|Build-in functions  |
-|HLR_4|Solar and batter powered|
+|HLR_4|Solar and battery powered|
 
 
 ## Low Level Requirements
