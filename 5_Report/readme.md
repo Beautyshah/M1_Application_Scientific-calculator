@@ -12,10 +12,11 @@ Folder             | Description
 `4.Test_plan`      | Documents with test plans and procedures
 
 
-Features
-|    Features    | Issuess Raised |Issues Resolved|No Test Cases|Test Case Pass
-|----------------|----------------|---------------|-------------|--------------
-| F_01, F_02, F_03, F_04, F_05, F_06, F_07   | None    | None   |7  |7    
+
+
+
+
+
 
 | Feature Id | Feature |
 | -----------|---------|
