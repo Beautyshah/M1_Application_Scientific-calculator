@@ -7,3 +7,6 @@ Mathematical operations are a part of our daily lives. Everyday we will be invol
 
 # Code Grade
 ![code grade](https://api.codiga.io/project/30045/status/svg)
+
+# Codacy Badge
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/a40715d085214beb9a33423fbc3550b2)](https://www.codacy.com/gh/Beautyshah/M1_Application_Scientific-calculator/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Beautyshah/M1_Application_Scientific-calculator&amp;utm_campaign=Badge_Grade)
