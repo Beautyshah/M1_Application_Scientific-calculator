@@ -4,3 +4,6 @@ Mathematical operations are a part of our daily lives. Everyday we will be invol
 
 # Code Quality Score
 ![code quality score](https://api.codiga.io/project/30045/score/svg)
+
+# Code Grade
+![code grade](https://api.codiga.io/project/30045/status/svg)
