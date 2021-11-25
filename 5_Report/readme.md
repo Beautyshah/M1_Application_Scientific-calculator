@@ -11,12 +11,7 @@ Folder             | Description
 `3_Implementation` | All code and documentation
 `4.Test_plan`      | Documents with test plans and procedures
 
-
-
-
-
-
-
+# Features
 
 | Feature Id | Feature |
 | -----------|---------|
